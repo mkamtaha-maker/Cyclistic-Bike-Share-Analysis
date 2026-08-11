@@ -6,23 +6,25 @@ Welcome to my data analytics portfolio!
 
 ## 👤 About Me
 * **Name:** Kamal Taha
-* Master of Business Administration (MBA)
-* * **Degree:** BSc in Computer Engineering
+* **Education:** 
+  * Master of Business Administration (MBA)
+  * BSc in Computer Engineering
 * **Role:** Data Analyst / Facilities Management Professional
 * **Certifications:** Google Data Analytics Professional Certificate
 
-I specialize in data extraction, data cleaning, relational databases (SQL / BigQuery), and interactive visual analytics (Tableau).
+I specialize in leveraging business acumen and technical data skills to extract actionable insights. My core strengths include data extraction, cleaning, relational databases (SQL / BigQuery), and interactive visual analytics (Tableau).
 
 ---
 
 ## 📬 Contact Information
-* **LinkedIn:** [Your LinkedIn Link]
-* **Email:** [Your Email]
+* **LinkedIn:** [Kamal Taha on LinkedIn](https://www.linkedin.com/in/kamal-taha-6878bb311/)
+* **Email:** mkam.taha@gmail.com
 * **Location:** Greater Manchester, United Kingdom
 
 ---
 
 ## 🏆 Accomplishments & Certifications
+* **Master of Business Administration (MBA)**
 * **Google Data Analytics Professional Certificate** (Coursera)
 * **Skills Bootcamp Certificate in Data Analytics** (The Skills Network)
 
