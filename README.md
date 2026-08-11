@@ -6,7 +6,8 @@ Welcome to my data analytics portfolio!
 
 ## 👤 About Me
 * **Name:** Kamal Taha
-* **Degree:** BSc in Computer Engineering
+* Master of Business Administration (MBA)
+* * **Degree:** BSc in Computer Engineering
 * **Role:** Data Analyst / Facilities Management Professional
 * **Certifications:** Google Data Analytics Professional Certificate
 
